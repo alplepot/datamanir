@@ -1,0 +1,16 @@
+Package: datamanir
+Title: Data manipulation with R
+Version: 1.0.0
+Authors@R: 
+    person("Alexandre", "Le Potier", , "alp35@live.fr", role = c("aut", "cre"))
+Description: datamanipy is a R package that provides tools to help you manipulating data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: DBI, ddpcr, dplyr, extrafont, forcats, ggplot2, ggrepel, osrm,
+        rpostgis, RPostgres, rstudioapi, scales, sf, spatstat, sys
+NeedsCompilation: no
+Packaged: 2022-09-01 15:12:14 UTC; a-le-potier
+Author: Alexandre Le Potier [aut, cre]
+Maintainer: Alexandre Le Potier <alp35@live.fr>

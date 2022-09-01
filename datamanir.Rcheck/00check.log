@@ -1,0 +1,17 @@
+* using log directory 'C:/Users/a-le-potier/Code/datamanir/datamanir.Rcheck'
+* using R version 4.2.0 (2022-04-22 ucrt)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: UTF-8
+* using options '--no-manual --as-cran'
+* checking for file 'datamanir/DESCRIPTION' ... OK
+* this is package 'datamanir' version '1.0.0'
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking serialization versions ... OK
+* checking whether package 'datamanir' can be installed ...
