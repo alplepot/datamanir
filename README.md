@@ -8,10 +8,10 @@ __datamanir__ is a R package that provides tools to help you manipulating data.
 
 Install the package and all dependencies at the same time by running in RStudio (recommended)\
 `install.packages(pkgs = c("ggplot2","extrafont","sf","rpostgis","DBI","sys","rstudioapi","dplyr","osrm","RPostgres","scales","forcats","spatstat","ggrepel","ddpcr"))`\
-`install.packages("https://raw.githubusercontent.com/alplepot/datamanir/main/datamanir_1.4.3.tar.gz", repos = NULL)`
+`install.packages("https://raw.githubusercontent.com/alplepot/datamanir/main/datamanir_1.0.0.tar.gz", repos = NULL)`
 
 Or install the package without dependencies by running in RStudio\
-`install.packages("https://git.autorite-transports.fr/toolbox/toolbox/-/raw/master/R/package/art_1.4.3.tar.gz", repos = NULL)`
+`install.packages("https://git.autorite-transports.fr/toolbox/toolbox/-/raw/master/R/package/art_1.0.0.tar.gz", repos = NULL)`
 
 ## Dependencies
 
