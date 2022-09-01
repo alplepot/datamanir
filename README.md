@@ -11,7 +11,7 @@ Install the package and all dependencies at the same time by running in RStudio 
 `install.packages("https://raw.githubusercontent.com/alplepot/datamanir/main/datamanir_1.0.0.tar.gz", repos = NULL)`
 
 Or install the package without dependencies by running in RStudio\
-`install.packages("https://git.autorite-transports.fr/toolbox/toolbox/-/raw/master/R/package/art_1.0.0.tar.gz", repos = NULL)`
+`install.packages("https://raw.githubusercontent.com/alplepot/datamanir/main/datamanir_1.0.0.tar.gz", repos = NULL)`
 
 ## Dependencies
 
