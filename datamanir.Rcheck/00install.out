@@ -1,0 +1,10 @@
+* installing *source* package 'datamanir' ...
+** using staged installation
+** help
+No man pages found in package  'datamanir' 
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+ERROR: loading failed
+* removing 'C:/Users/a-le-potier/Code/datamanir/datamanir.Rcheck/datamanir'
